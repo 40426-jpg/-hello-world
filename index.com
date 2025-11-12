@@ -1,0 +1,2 @@
+ch1 style="color :#cc66ff; background-color : powderblue">นี่คือหน้าแสดงงาน</h1>
+<a href="index.htm]">คลิกเพื่อกลับไปหน้าหลัก</a> <br»
