@@ -1,3 +1,6 @@
-<h1 style="color:#33ccff">สวัสดีชาวโลก<h1>
-<h2 style="color:#53c653">รักสตรี<h2>
-<h3 href="index.htm]">คลิกเพื่อกลับไปหน้าหลัก<h3>
+<h1 style="color:#33ccff; background-color:powderblue;">สวัสดีชาวโลก</h1>
+
+<h2 style="color:#53c653">คนไทยทั้งหลายวันนี้มารียนเขียนเเอพกับครูสุเจนสนุกน้า</h2>
+
+<a href="https://www.google.com/?hl=th" target="_blank">คลิกเพื่อเปิด Google</a> <br>
+<a href="work.html">คลิกเพื่อเปิด งานของฉัน</a> <br>
