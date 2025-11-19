@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <title>My HTML Page</title>
+</head>
+<body>
+  <h1>ข้อความอะไรก็ได้</h1>
+
+  <p>นี่คือหน้าเว็บ HTML ตัวอย่างที่มีข้อความอยู่ในแท็ก h1.</p>
+</body>
+</html>
